@@ -1,3 +1,5 @@
+/*Program to calculate the place where the object fall by taking the speed of the wind into consideration*/
+
 import java.io.*;
   
     public class FallInWind {
